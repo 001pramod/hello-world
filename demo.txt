@@ -1,0 +1,3 @@
+welcome to hello-word 
+
+i'm addning first commit 
