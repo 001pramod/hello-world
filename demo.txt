@@ -2,7 +2,8 @@ welcome to hello-word
 
 i'm addning first commit 
 
-
+ Beans 
+ pizza
 chicken
 
 thank you
